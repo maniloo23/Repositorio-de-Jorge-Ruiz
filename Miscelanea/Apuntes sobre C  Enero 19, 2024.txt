@@ -1,0 +1,6 @@
+Apuntes sobre C 19/1/2024
+
+&& = significa "y" en C
+
+|| = signfica "o" en C
+

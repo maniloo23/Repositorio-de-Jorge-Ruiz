@@ -1,0 +1,5 @@
+Estudiar tabla de verdad 
+
+&& = significa "y" en C
+
+|| = signfica "o" en C
