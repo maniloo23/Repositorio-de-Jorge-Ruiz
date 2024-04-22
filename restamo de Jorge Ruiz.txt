@@ -1,0 +1,4 @@
+Indique su primer nombre y apellido: Jorge RUiz
+Dinero prestado: 1000.00
+Porcentaje de Interes Simple: 10.00
+Monto Saldo: 1054.99
