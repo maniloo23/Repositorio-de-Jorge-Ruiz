@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710527382 source:c:\users\jorge ruiz\onedrive\escritorio\fundamentos de programacion\capitulo 7\pt 7.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
