@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MACTrackBarLib.dll/1.0.2": {
+        "runtime": {
+          "lib/net40/MACTrackBarLib.dll": {
+            "assemblyVersion": "1.0.5896.38740",
+            "fileVersion": "1.0.5896.38740"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MACTrackBarLib.dll/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iZj4vJidbiVCcb/LI3j7csCEen1yVpb0CPgMu+yxSmBUBci6csHNEgEJw9+mZVbnWe1/ccT3AUO43PFr+KEIlA==",
+      "path": "mactrackbarlib.dll/1.0.2",
+      "hashPath": "mactrackbarlib.dll.1.0.2.nupkg.sha512"
+    }
+  }
+}

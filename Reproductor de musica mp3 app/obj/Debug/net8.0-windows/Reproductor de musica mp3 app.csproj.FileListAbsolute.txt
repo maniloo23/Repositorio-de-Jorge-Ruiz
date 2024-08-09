@@ -1,0 +1,22 @@
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.csproj.ResolveComReference.cache
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor_de_musica_mp3_app.Form1.resources
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor_de_musica_mp3_app.Properties.Resources.resources
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.csproj.GenerateResource.cache
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.AssemblyInfoInputs.cache
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.AssemblyInfo.cs
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\bin\Debug\net8.0-windows\Reproductor de musica mp3 app.exe
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\bin\Debug\net8.0-windows\Reproductor de musica mp3 app.deps.json
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\bin\Debug\net8.0-windows\Reproductor de musica mp3 app.runtimeconfig.json
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\bin\Debug\net8.0-windows\Reproductor de musica mp3 app.dll
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\bin\Debug\net8.0-windows\Reproductor de musica mp3 app.pdb
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.dll
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\refint\Reproductor de musica mp3 app.dll
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.pdb
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\Reproductor de musica mp3 app.genruntimeconfig.cache
+C:\Users\Jorge Ruiz\source\repos\Reproductor de musica mp3 app\obj\Debug\net8.0-windows\ref\Reproductor de musica mp3 app.dll
